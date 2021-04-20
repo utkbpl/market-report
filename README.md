@@ -3,6 +3,10 @@
 
 clone the project to your local system
 
+// Create Database in mysql using market-report.sql file
+
+    create database and import market-report.sql file
+
 // Navigate to project folder
 
 # Commands to run the project
