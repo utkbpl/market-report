@@ -8,10 +8,12 @@ clone the project to your local system
 # Commands to run the project
 
 npm install
+
 npm start
 
 // To create report data run below url to Postman
 1. http://localhost:3000/reports
+
 Method: POST
 
 Request Body:
@@ -30,4 +32,5 @@ Request Body:
 }
 
 2. http://localhost:3000/reports?reportID=884ece67-1150-48ec-a311-9d6817b01401
+
 Method: GET
