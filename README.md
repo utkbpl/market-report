@@ -11,9 +11,9 @@ clone the project to your local system
 
 # Commands to run the project
 
-npm install
+    npm install
 
-npm start
+    npm start
 
 // To create report data run below url to Postman
 1. http://localhost:3000/reports
